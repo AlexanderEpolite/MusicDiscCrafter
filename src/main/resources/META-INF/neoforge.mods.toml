@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Public Domain"
+
+[[mods]]
+modId="music_disc_crafter"
+version="1.0.0"
+displayName="Music Disc Crafter"
+displayURL="https://epolite.net"
+credits="https://github.com/AlexanderEpolite"
+authors="Alexander Epolite"
+description="A simple mod which allows you to craft creeper-dropped music discs"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.music_disc_crafter]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.92,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.music_disc_crafter]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,247 @@
+{
+  "mod_elements": [
+    {
+      "name": "DiscTemplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_template",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/music_disc_crafter/models/item/disc_template.json",
+          "src/main/java/net/vertexium/musicdisccrafter/item/DiscTemplateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Disc11craft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_11craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_11craft.json"
+        ]
+      }
+    },
+    {
+      "name": "CreativeTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creative_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Disc13craft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_13craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_13craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscWhereAreWeNowCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_where_are_we_now_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_where_are_we_now_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscCatCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_cat_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_cat_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscBlocksCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_blocks_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_blocks_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscChirpCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_chirp_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_chirp_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscFarCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_far_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_far_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscMallCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_mall_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_mall_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscMellohiCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_mellohi_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_mellohi_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscStallCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_stall_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_stall_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscStradCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_strad_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_strad_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscWardCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_ward_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_ward_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscTemplateSmelt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_template_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/music_disc_crafter/recipe/disc_template_smelt.json"
+        ]
+      }
+    },
+    {
+      "name": "DiscTemplateTrade",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_template_trade",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:mod:music_disc": [
+      "Items.RECORD_13",
+      "Items.RECORD_CAT",
+      "Items.RECORD_BLOCKS",
+      "Items.RECORD_CHIRP",
+      "Items.RECORD_CREATOR",
+      "Items.RECORD_CREATOR_MUSIC_BOX",
+      "Items.RECORD_PRECIPICE",
+      "Items.RECORD_FAR",
+      "Items.RECORD_MALL",
+      "Items.RECORD_MELLOHI",
+      "Items.RECORD_STAL",
+      "Items.RECORD_STRAD",
+      "Items.RECORD_WARD",
+      "Items.RECORD_11",
+      "Items.RECORD_WAIT",
+      "Items.MUSIC_DISC_OTHERSIDE",
+      "Items.MUSIC_DISC_5",
+      "Items.MUSIC_DISC_PIGSTEP",
+      "Items.MUSIC_DISC_RELIC"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.music_disc_crafter.disc_template": "Disc Template",
+      "item_group.music_disc_crafter.creative_tab": "Music Disc Crafter"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "music_disc_crafter",
+    "modName": "Music Disc Crafter",
+    "version": "1.0.0",
+    "description": "A simple mod which allows you to craft creeper-dropped music discs",
+    "author": "Alexander Epolite",
+    "websiteURL": "https://epolite.net",
+    "license": "Public Domain",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "https://github.com/AlexanderEpolite",
+    "modElementsPackage": "net.vertexium.musicdisccrafter"
+  },
+  "mcreatorVersion": 202500113416
+}
